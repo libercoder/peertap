@@ -1,4 +1,4 @@
-# 🌐 Summary: Wakunet fully Decentralized L2 Virtual Network
+# 🌐 Summary: Peertap is fully Decentralized L2 Virtual Network
 
 This project aims to build a **fully decentralized, cryptographically secure Layer 2 (L2) virtual networking system**, designed for both desktop and mobile devices, and capable of forming **virtual Ethernet broadcast domains** over a libp2p overlay.
 
